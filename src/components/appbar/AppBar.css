@@ -1,0 +1,25 @@
+.navbar {
+    border-bottom: solid 1px rgb(255, 255, 255, 0.5);
+}
+
+#dropdown {
+    text-decoration: none;
+    color: white;
+    padding: 0 10px;
+    line-height: 1;
+}
+
+#dropdown:hover {
+    text-decoration: none;
+    color: rgba(255,255,255,.5);
+}
+
+.dropdown-menu {
+    border-radius: 0 !important;
+    left: auto !important;
+    right: 0 !important;
+}
+
+.dropdown-item {
+    color: #007bff !important;
+}
